@@ -129,5 +129,5 @@ The project demonstrates several proof techniques:
 3. **Complexity Analysis**: Rigorous time and space complexity evaluation
 4. **Contradiction Arguments**: Proof by contradiction for greedy algorithm optimality
 
-## ⚙️ Tools & Implementation  
-- Reports are written in Greek, while the README provides an English overview.  
+## Implementation  
+- Report is written in Greek, while the README provides an English overview.  
