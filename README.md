@@ -18,7 +18,7 @@ This project presents solutions to three algorithmic problems focusing on graph 
 
 ## Problem Descriptions and Solutions
 
-### Problem 1: Graph Connectivity with Fuel Constraints
+### 🔹 Problem 1: Graph Connectivity with Fuel Constraints
 
 **Task**: Design algorithms to determine if travel between cities is feasible given fuel tank limitations.
 
@@ -49,7 +49,7 @@ This project presents solutions to three algorithmic problems focusing on graph 
 - Greedy selection of minimum edges leads to optimal solution
 - **Time Complexity**: O((|V| + |E|)log|V|) using binary heap
 
-### Problem 2: Citizen Service Queue Optimization
+### 🔹 Problem 2: Citizen Service Queue Optimization
 
 **Task**: Minimize total waiting time for citizens requiring government services.
 
@@ -70,7 +70,7 @@ This project presents solutions to three algorithmic problems focusing on graph 
 - Each local optimization (shortest job first) contributes to global minimum
 - **Time Complexity**: Dominated by sorting - O(n log n) using mergesort
 
-### Problem 3: Optimal String Segmentation
+### 🔹 Problem 3: Optimal String Segmentation
 
 **Task**: Find minimum computational cost to cut a string into specified segments.
 
