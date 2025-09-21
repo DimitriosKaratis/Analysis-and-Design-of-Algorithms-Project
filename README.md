@@ -1,4 +1,4 @@
-# Analysis-and-Design-of-Algorithms-Project
+# Analysis and Design of Algorithms Project
 
 This repository contains the implementation of three projects in **Analysis and Design of Algorithms**, demonstrating practical applications of theoretical computer science concepts to real-world optimization problems, emphasizing both in algorithmic efficiency and mathematical rigor.  
 The work was developed as part of the *Analysis and Design of Algorithms* course at the **Department of Electrical and Computer Engineering, Aristotle University of Thessaloniki.**
@@ -128,3 +128,6 @@ The project demonstrates several proof techniques:
 2. **Optimality Proofs**: Mathematical demonstration of optimal solutions
 3. **Complexity Analysis**: Rigorous time and space complexity evaluation
 4. **Contradiction Arguments**: Proof by contradiction for greedy algorithm optimality
+
+## ⚙️ Tools & Implementation  
+- Reports are written in Greek, while the README provides an English overview.  
