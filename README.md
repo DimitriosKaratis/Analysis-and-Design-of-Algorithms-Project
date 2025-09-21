@@ -1,11 +1,11 @@
 # Analysis-and-Design-of-Algorithms-Project
 
-**Course**: Analysis and Design of Algorithms (6th Semester)  
-**Institution**: Aristotle University of Thessaloniki, Department of Electrical and Computer Engineering  
-**Team**: Team 10  
-**Authors**: Karatis Dimitrios (10775), Vaporis Dimitrios (10625)
+This repository contains the implementation of three projects in **Analysis and Design of Algorithms**, demonstrating practical applications of theoretical computer science concepts to real-world optimization problems, emphasizing both in algorithmic efficiency and mathematical rigor.  
+The work was developed as part of the *Analysis and Design of Algorithms* course at the **Department of Electrical and Computer Engineering, Aristotle University of Thessaloniki.**
 
-## Overview
+---
+
+## 📌 Projects Overview
 
 This project presents solutions to three algorithmic problems focusing on graph algorithms, greedy algorithms, and dynamic programming. Each problem required designing efficient algorithms, providing mathematical proofs of correctness, and analyzing time complexity.
 
@@ -128,18 +128,3 @@ The project demonstrates several proof techniques:
 2. **Optimality Proofs**: Mathematical demonstration of optimal solutions
 3. **Complexity Analysis**: Rigorous time and space complexity evaluation
 4. **Contradiction Arguments**: Proof by contradiction for greedy algorithm optimality
-
-## Key Learning Outcomes
-
-- **Algorithm Design Patterns**: Application of BFS, MST, greedy, and dynamic programming paradigms
-- **Problem Reduction**: Transformation of complex problems into well-known algorithmic frameworks
-- **Optimization Techniques**: Various approaches to minimize different objective functions
-- **Mathematical Proof**: Formal verification of algorithm properties and performance guarantees
-
-## Implementation Notes
-
-All algorithms are presented in formal pseudocode with detailed complexity analysis. The solutions demonstrate practical application of theoretical computer science concepts to real-world optimization problems, emphasizing both algorithmic efficiency and mathematical rigor.
-
----
-
-*This project was completed as part of the Analysis and Design of Algorithms course at the Aristotle University of Thessaloniki, showcasing practical applications of fundamental algorithmic techniques to diverse problem domains.*
