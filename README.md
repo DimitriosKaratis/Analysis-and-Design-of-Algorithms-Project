@@ -3,7 +3,7 @@
 This repository contains the implementation of three projects in **Analysis and Design of Algorithms**, demonstrating practical applications of theoretical computer science concepts to real-world optimization problems, emphasizing both in algorithmic efficiency and mathematical rigor.  
 The work was developed as part of the *Analysis and Design of Algorithms* course at the **Department of Electrical and Computer Engineering, Aristotle University of Thessaloniki.**
 
----
+--- 
 
 ## 📌 Projects Overview
 
